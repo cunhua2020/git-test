@@ -5,6 +5,7 @@ public class gitTest {
         System.out.println("sadas");
         System.out.println("sadas");
         System.out.println("sadas");
-        System.out.println("cold");
+        System.out.println("cold1");
+        System.out.println("cold1");
     }
 }
